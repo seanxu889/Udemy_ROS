@@ -18,4 +18,4 @@ laser scan of moving person:
 
 SLAM:
 
-![image](https://github.com/seanxu889/Udemy_ROS/blob/master/9_Perception_laser_scanner/SLAM.gif)
+![image](https://github.com/seanxu889/Udemy_ROS/blob/master/10_SLAM/SLAM.gif)
