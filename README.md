@@ -15,3 +15,5 @@ spiral motion:
 laser scan of moving person:
 
 ![image](https://github.com/seanxu889/Udemy_ROS/blob/master/9_Perception_laser_scanner/laserscanner.gif)
+
+![image](https://github.com/seanxu889/Udemy_ROS/blob/master/9_Perception_laser_scanner/SLAM.gif)
